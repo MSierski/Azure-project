@@ -24,3 +24,4 @@ resource "azurerm_storage_container" "example" {
 #  type                   = "Block"
 #  source                 = "some-local-file.zip"
 #}
+#
